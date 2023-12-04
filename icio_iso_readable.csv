@@ -1,0 +1,72 @@
+code,country,oecd
+AUS,Australia,OECD
+AUT,Austria,OECD
+BEL,Belgium,OECD
+CAN,Canada,OECD
+CHL,Chile,OECD
+COL,Colombia,OECD
+CRI,Costa Rica,OECD
+CZE,Czech Republic - Czechia,OECD
+DNK,Denmark,OECD
+EST,Estonia,OECD
+FIN,Finland,OECD
+FRA,France,OECD
+DEU,Germany,OECD
+GRC,Greece,OECD
+HUN,Hungary,OECD
+ISL,Iceland,OECD
+IRL,Ireland,OECD
+ISR,Israel1,OECD
+ITA,Italy,OECD
+JPN,Japan,OECD
+KOR,Korea,OECD
+LVA,Latvia,OECD
+LTU,Lithuania,OECD
+LUX,Luxembourg,OECD
+MEX,Mexico,OECD
+MX1,Mexico - Activities excluding Global Manufacturing,OECD
+MX2,Mexico - Global Manufacturing activities,OECD
+NLD,Netherlands,OECD
+NZL,New Zealand,OECD
+NOR,Norway,OECD
+POL,Poland,OECD
+PRT,Portugal,OECD
+SVK,Slovak Republic,OECD
+SVN,Slovenia,OECD
+ESP,Spain,OECD
+SWE,Sweden,OECD
+CHE,Switzerland,OECD
+TUR,Turkey,OECD
+GBR,United Kingdom,OECD
+USA,United States,OECD
+ARG,Argentina,NON-OECD
+BRA,Brazil,NON-OECD
+BRN,Brunei Darussalam,NON-OECD
+BGR,Bulgaria,NON-OECD
+KHM,Cambodia,NON-OECD
+CHN,China (People's Republic of),NON-OECD
+CN1,China - Activities excluding export processing,NON-OECD
+CN2,China - Export processing activities,NON-OECD
+HRV,Croatia,NON-OECD
+CYP,Cyprus2,NON-OECD
+IND,India,NON-OECD
+IDN,Indonesia,NON-OECD
+HKG,"Hong Kong, China",NON-OECD
+KAZ,Kazakhstan,NON-OECD
+LAO,Lao People's Democratic Republic,NON-OECD
+MYS,Malaysia,NON-OECD
+MLT,Malta,NON-OECD
+MAR,Morocco,NON-OECD
+MMR,Myanmar,NON-OECD
+PER,Peru,NON-OECD
+PHL,Philippines,NON-OECD
+ROU,Romania,NON-OECD
+RUS,Russian Federation,NON-OECD
+SAU,Saudi Arabia,NON-OECD
+SGP,Singapore,NON-OECD
+ZAF,South Africa,NON-OECD
+TWN,Chinese Taipei,NON-OECD
+THA,Thailand,NON-OECD
+TUN,Tunisia,NON-OECD
+VNM,Viet Nam,NON-OECD
+ROW,Rest of the World,NON-OECD

@@ -1,0 +1,46 @@
+sector_code,Industry
+01T02,"Agriculture, hunting, forestry"
+03,Fishing and aquaculture
+05T06,"Mining and quarrying, energy producing products"
+07T08,"Mining and quarrying, non-energy producing products"
+09,Mining support service activities
+10T12,"Food products, beverages and tobacco"
+13T15,"Textiles, textile products, leather and footwear"
+16,Wood and products of wood and cork
+17T18,Paper products and printing
+19,Coke and refined petroleum products
+20,Chemical and chemical products
+21,"Pharmaceuticals, medicinal chemical and botanical products"
+22,Rubber and plastics products
+23,Other non-metallic mineral products
+24,Basic metals
+25,Fabricated metal products
+26,"Computer, electronic and optical equipment"
+27,Electrical equipment
+28,"Machinery and equipment, nec"
+29,"Motor vehicles, trailers and semi-trailers"
+30,Other transport equipment
+31T33,Manufacturing nec; repair and installation of machinery and equipment
+35,"Electricity, gas, steam and air conditioning supply"
+36T39,"Water supply; sewerage, waste management and remediation activities"
+41T43,Construction
+45T47,Wholesale and retail trade; repair of motor vehicles
+49,Land transport and transport via pipelines
+50,Water transport
+51,Air transport
+52,Warehousing and support activities for transportation
+53,Postal and courier activities
+55T56,Accommodation and food service activities
+58T60,"Publishing, audiovisual and broadcasting activities"
+61,Telecommunications
+62T63,IT and other information services
+64T66,Financial and insurance activities
+68,Real estate activities
+69T75,"Professional, scientific and technical activities"
+77T82,Administrative and support services
+84,Public administration and defence; compulsory social security
+85,Education
+86T88,Human health and social work activities
+90T93,"Arts, entertainment and recreation"
+94T96,Other service activities
+97T98,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
